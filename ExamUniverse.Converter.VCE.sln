@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamUniverse.Converter.VCE", "ExamUniverse.Converter.VCE\ExamUniverse.Converter.VCE.csproj", "{5A0ECBFE-DD8C-4DAF-A62D-91523A30E8C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamUniverse.Converter.VCE.Tests", "ExamUniverse.Converter.VCE.Tests\ExamUniverse.Converter.VCE.Tests.csproj", "{5250E18F-EC41-4CB5-AFEF-4A5D8A66222C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A0ECBFE-DD8C-4DAF-A62D-91523A30E8C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0ECBFE-DD8C-4DAF-A62D-91523A30E8C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0ECBFE-DD8C-4DAF-A62D-91523A30E8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0ECBFE-DD8C-4DAF-A62D-91523A30E8C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5250E18F-EC41-4CB5-AFEF-4A5D8A66222C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5250E18F-EC41-4CB5-AFEF-4A5D8A66222C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5250E18F-EC41-4CB5-AFEF-4A5D8A66222C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5250E18F-EC41-4CB5-AFEF-4A5D8A66222C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9D5FD37-68D9-47C6-94AD-B7DE8B49726D}
+	EndGlobalSection
+EndGlobal
